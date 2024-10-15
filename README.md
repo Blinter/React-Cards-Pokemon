@@ -1,4 +1,4 @@
-# React Hooks - Cards+Pokemon
+# React Hooks - Cards + Pokemon
 
 ## **Step One: Read the Code**
 

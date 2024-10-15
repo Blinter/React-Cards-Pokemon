@@ -7,7 +7,7 @@ function CardTable() {
   return (
     <div className="CardTable">
       <header>
-        <h1 className="CardTable-heading">Check out all my cards.</h1>
+        <h1 className="CardTable-heading">React Custom Hooks</h1>
       </header>
       <main>
         <PlayingCardList />
